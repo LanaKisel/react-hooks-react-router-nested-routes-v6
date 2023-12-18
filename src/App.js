@@ -13,7 +13,7 @@ function App() {
       <header>
         <NavBar />        
       </header>
-      <Outlet contect={users}/>
+      <Outlet context={users}/>
     </>
   );
 };
